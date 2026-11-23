@@ -1,0 +1,10 @@
+{
+  "id": "hola",
+  "name": "Hola Mod",
+  "version": "1.0",
+  "author": "Tu nombre",
+  "description": "Mod de ejemplo que muestra un aviso",
+  "type": "dex",
+  "main": "com.ejemplo.hola.HolaMod",
+  "url": "https://github.com/USUARIO/REPO/releases/download/v1.0/hola.dex"
+}
